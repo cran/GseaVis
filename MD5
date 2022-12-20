@@ -1,0 +1,15 @@
+12435591b9b8645d95a0b5c143b0ed59 *DESCRIPTION
+87d466fc3f0eff8848876c203dcc2c8b *LICENSE
+542e50754a7a7e63b32279eaa6dc8543 *NAMESPACE
+b4379c885e082a2bde72addbaad4da23 *R/dotplotGsea.R
+b4f11263e5e87f8d43ed4cd0bcb0dfb2 *R/gsInfo.R
+ef7ba3cd85cda5ed781df96f13e4ede9 *R/gseaNb.R
+b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
+7085ce547907cae1396e27580f3950b7 *R/volcanoGsea.R
+d2c10ca936da4803387717cbbcb7d96e *README.md
+1fe0a80f050590cbc827d35b1891a67d *inst/extdata/gseaRes.RDS
+23cdc59b6c3e4b6ca76e5cb07e8530d7 *man/dotplotGsea.Rd
+b5899f68e079e88cba69fe91c1db240f *man/gsInfo.Rd
+14370861c2d61c4710d6743c7088991d *man/gseaNb.Rd
+8f4aad003a999fae004ba9361f9a99d6 *man/pipe.Rd
+eb2d3810f440f0fcc3c7c131722f0434 *man/volcanoGsea.Rd
